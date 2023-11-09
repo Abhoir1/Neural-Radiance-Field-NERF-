@@ -29,6 +29,7 @@ python main.py --config-name=box
 ```
 <img src ="images/part_2.gif" height=300/>
 <img src ="images/1.5_depth_vis.png" height=300/>
+
 ### Part 2: Training Visualization
 
 ```
