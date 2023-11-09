@@ -1,10 +1,37 @@
-Assignment 3
-===================================
+# Assignment 3 README
 
-For 1.3 run python main.py --config-name=box in the command line, the results will be saved as 'images/1.3_xygrid.jpg and 'images/1.3_rays.jpg'
-For 1.4 run python main.py --config-name=box in the command line, the results will be saved as 'images/1.4_sampling_point.jpg'
-For 1.5 run python main.py --config-name=box in the command line, the results will be saved as "images/1.5_depth_vis.png" and 'images/part_1.gif'
-For 2 run python main.py --config-name=train_box in the command line, the results will be saved as 'images/part_2x.gif'
-For 3 run python main.py --config-name=nerf_lego in the command line, the results will be saved as 'images/part_3.gif'
+This document provides the necessary commands to run each part of Assignment 3 and indicates where the results will be saved.
 
-All the visualization results are shown in the report.
+## Execution Instructions
+
+Ensure you are in the correct directory where the `main.py` script is located before running these commands.
+
+### Part 1.3: 2D XY Grid and Rays Visualization
+
+```
+python main.py --config-name=box
+```
+
+### Part 1.4: Sampling Points Visualization
+
+```
+python main.py --config-name=box
+```
+
+### Part 1.5: Depth Visualization
+
+```
+python main.py --config-name=box
+```
+
+### Part 2: Training Visualization
+
+```
+python main.py --config-name=train_box
+```
+
+### Part 3: NeRF Lego Visualization
+
+```
+python main.py --config-name=nerf_lego
+```
